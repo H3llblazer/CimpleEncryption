@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1337401229 source:/home/icoer/CimpleEncryption/CimpleEncrypt/main.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+
+1337418638 /home/icoer/CimpleEncryption/CimpleEncrypt/class.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<deque>
+
